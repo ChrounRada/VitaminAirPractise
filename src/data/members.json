@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Croun Rada",
+        "position": "Student",
+        "image": "/pic/screen.png",
+        "category": 1
+    },
+    {
+        "id": 1,
+        "name": "Bro Den",
+        "position": "Junoir",
+        "image": "/pic/screen.png",
+        "category": 2
+    },
+    {
+        "id": 2,
+        "name": "Bro Thy",
+        "position": "System Engineer",
+        "image": "/pic/screen.png",
+        "category": 3
+    },
+    {
+        "id": 3,
+        "name": "Bro Lin",
+        "position": "Developer",
+        "image": "/pic/screen.png",
+        "category": 4
+    }
+]

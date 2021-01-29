@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Facebook",
+        "link": "https://www.facebook.com/",
+        "srcImage": "/icons/facebook.svg",
+        "altImage": "Facebook page"
+    },
+    {
+        "id": 1,
+        "name": "Telegram",
+        "link": "https://www.facebook.com/",
+        "srcImage": "/icons/telegram.svg",
+        "altImage": "Telegram App"
+    },
+    {
+        "id": 2,
+        "name": "Medium",
+        "link": "https://www.facebook.com/",
+        "srcImage": "/icons/medium.svg",
+        "altImage": "Meduim App"
+    },
+    {
+        "id": 3,
+        "name": "Twitter",
+        "link": "https://www.facebook.com/",
+        "srcImage": "/icons/twitter.svg",
+        "altImage": "Twitter App"
+    }
+]
